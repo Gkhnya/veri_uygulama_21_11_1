@@ -7,8 +7,9 @@ package CiftYonluDaireselBagliListe;
 
 /**
  *
- * @author uysal
+ * @author gkhnya
  */
+ 
 public class BagliListe {
 
     private Node head;
